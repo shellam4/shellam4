@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shellam4!
-- 👀 I’m interested in Front-end Software Development positions. 
+- 👀 I’m interested in Front-end Software Development projects. 
 - 🌱 I’m currently learning C. 
-- 💞️ I’m looking to collaborate on simple website design. 
+- 💞️ I’m looking to collaborate on web, mobile, and game design. 
 - 📫 How to reach me: asiashell4@gmail.com. 
 
 <!---
