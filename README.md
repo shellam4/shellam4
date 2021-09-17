@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shellam4!
+- 👋 Hi, I’m Asia!
 - 💡 I’m interested in Front-end and Project Management. 
 - 💻 I’m currently learning [C](https://github.com/topics/c). 
 - 🤝 I’m looking to collaborate on web and mobile design. 
